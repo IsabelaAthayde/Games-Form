@@ -9,6 +9,7 @@ min-height: 100%;
 }
 
 body{
+background-color: #0c0c16;
 background-image: url("src/cosmic-background.jpg");
 background-repeat: no-repeat;
 background-size: cover;
